@@ -26,7 +26,7 @@ long fatorial_i(int n)
 }
 int main (int argc, char** argv)
 {
-    long n = 5;
+    long n = 50;
 
     printf("%ld\n", fatorial_r(n));
     printf("%ld\n", fatorial_i(n));
