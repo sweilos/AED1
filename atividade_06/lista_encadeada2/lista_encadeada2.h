@@ -1,0 +1,8 @@
+//
+// Created by yago on 06/07/23.
+//
+
+#ifndef ATIVIDADE_06_LISTA_ENCADEADA2_H
+#define ATIVIDADE_06_LISTA_ENCADEADA2_H
+
+#endif //ATIVIDADE_06_LISTA_ENCADEADA2_H
