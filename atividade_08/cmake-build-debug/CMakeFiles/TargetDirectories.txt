@@ -1,0 +1,3 @@
+/home/yago/Documents/uea 3º período/AED1/atividade_08/cmake-build-debug/CMakeFiles/atividade_08.dir
+/home/yago/Documents/uea 3º período/AED1/atividade_08/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yago/Documents/uea 3º período/AED1/atividade_08/cmake-build-debug/CMakeFiles/rebuild_cache.dir
